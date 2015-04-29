@@ -16,5 +16,5 @@ A very strange solution:
 After I switch back to Spring Data Rest 2.2.1 (contained in Spring Boot 1.2.1.RELEASE), HTTP PUT now works properly. You can verify this by changing my bug demo project's POM file.
 
 Now I got confused:
-Why didn't I reproduce the same bug using Spring Data Rest 2.2.1 as Runar Botten did?
+Why didn't I reproduce the same bug by using Spring Data Rest 2.2.1 as Runar Botten did?
 Why do I encounter the bug by using the latter versions(2.2.2) which are supposed to fix that??
